@@ -57,4 +57,12 @@ Run `./target/release/motifier --help` to see the help menu. The following input
     - "Uthree"
     - "Ufour"
 - -o (--output): The path (including the filename) of the desired output image.
+
+## References
+
+George A. Escher, "Potato Printing, A Game for Winter Evenings", in M. C. Escher: Art and Science H. S. M. Coxeter, M. Emmer, R. Penrose, M. Teuber, eds. Amsterdam: North Holland, 1986, pp. 9-11
+
+Schattschneider,  D.: Escher's combinatorial patterns. Electron. J. Comb., 4 (2), R17 (1997). Research Paper. Approx. 31 pp. The Wilf Festschrift (Philadelphia, PA, 1996)
+
+Dan, D.: On a tiling scheme from M.C. Escher. Electron. J. Comb. 4(2), R23 (1997). Research Paper.Approx. 11 pp. The Wilf Festschrift (Philadelphia, PA, 1996)
     
